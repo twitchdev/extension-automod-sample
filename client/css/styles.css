@@ -1,0 +1,8 @@
+html, body, pre, code, kbd, samp {
+    font-family: 'Press Start 2P';
+    background: transparent;
+  }
+  
+#content {
+  border: none;
+}
